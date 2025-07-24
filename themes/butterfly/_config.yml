@@ -53,7 +53,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /favicon-v2.ico?v=2
 
 avatar:
   img: /img/butterfly-icon.png
