@@ -93,6 +93,8 @@ footer_img: false
 # Website Background
 # Can set it to color or image url
 background:
+  use_img: true
+  img: /img/home-bg.png 
 
 cover:
   # Disable the cover or not
