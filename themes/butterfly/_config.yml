@@ -18,6 +18,10 @@ nav:
   fixed: false
 
 menu:
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Tags: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
   # Home: / || fas fa-home
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
@@ -282,17 +286,17 @@ aside:
     archive: true
     tag: true
     category: true
-  card_author:
+  card_author: /img/avatar.png
     enable: true
-    description:
+    description: 在隆冬，我终于知道，我身上有一个不可战胜的夏天！
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/DYlanyoo-gif
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎来到我的博客！这里记录了我的成长历程和思考，希望能与你产生共鸣。
   card_recent_post:
     enable: true
     # If set 0 will show all
