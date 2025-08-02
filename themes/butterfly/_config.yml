@@ -286,8 +286,9 @@ aside:
     archive: true
     tag: true
     category: true
-  card_author: /img/avatar.png
+  card_author: 
     enable: true
+    avatar: /img/avatar.jpg
     description: 在隆冬，我终于知道，我身上有一个不可战胜的夏天！
     button:
       enable: true
