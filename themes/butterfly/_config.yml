@@ -288,7 +288,7 @@ aside:
     category: true
   card_author: 
     enable: true
-    avatar: /img/avatar.jpg
+    avatar: /img/avatar.png
     description: 在隆冬，我终于知道，我身上有一个不可战胜的夏天！
     button:
       enable: true
@@ -392,7 +392,7 @@ darkmode:
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
   # autoChangeMode: false
   autoChangeMode: false
-  # Set the light mode time. The value is between 0 and 24. If not set, the default value is 6 and 18
+  # Set the light mode time. The value is between 0 and 24. If n  ot set, the default value is 6 and 18
   start:
   end:
 
