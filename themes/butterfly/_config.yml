@@ -60,7 +60,7 @@ social:
 favicon: /favicon-v2.ico?v=2
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/avatar.png
   effect: false
 
 # Disable all banner images
@@ -288,7 +288,6 @@ aside:
     category: true
   card_author: 
     enable: true
-    avatar: /img/avatar.png
     description: 在隆冬，我终于知道，我身上有一个不可战胜的夏天！
     button:
       enable: true
